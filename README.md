@@ -12,7 +12,7 @@ Predominant Age Group
 Highest Salary Expenditure
 *Team Cleveland Cavaliers have highest salery expenditure of 106988689.0
 
-Age-Salary Correlation:
+Age-Salary Correlation
 *The scatter plot shows the relationship between age and salary.
 * employees have  Age between 25 to 35 are getting higher salery
 
